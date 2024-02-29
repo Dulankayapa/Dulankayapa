@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dulanka yapa
-- 👀 I’m interested in desingning and programming. 
-- 🌱 I’m currently learning at sliit faculty of comput
+- 👀 I’m interested in designing and programming. 
+- 🌱 I’m currently learning at Sliit Faculty of computer
 
 <!---
 Dulankayapa/Dulankayapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
